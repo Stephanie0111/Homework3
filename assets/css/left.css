@@ -1,0 +1,122 @@
+.leftcolumn {   
+  float: left;
+  width: 30%;
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: rgba(255, 192, 203, 0.7);
+  padding: 10px;
+  margin-left: 15px;
+}
+
+
+h1.column1 {
+  color: #cf9af1;
+  text-shadow: 6px 6px 5px rgba(192,192,192,0.6);
+  text-align: center;
+}
+
+h1.column2 {
+  color: #ffa8ce;
+  text-shadow: 6px 6px 5px rgba(192,192,192,0.6);
+  text-align: center;
+}
+
+h1.column3 {
+  color: #ff5e75;
+  text-shadow: 6px 6px 5px rgba(192,192,192,0.6);
+  text-align: center;
+}
+
+#bars {
+  margin: 2em auto;
+  max-width: 960px;
+  overflow: hidden;
+  margin-top: 0;
+  margin-bottom: 70px;
+}
+
+.bar {
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
+.bar h3 {
+  font-size: 1.4em;
+  font-weight: normal;
+  color: #ff80f2;
+  opacity: 0.6;
+  font-size: 15px;
+  margin: 0;
+}
+
+.bar-circle {
+  display: block;
+  margin: 0.7em auto;
+}
+
+/*Skill Bars*/
+div.one{
+  margin-bottom: 70px;
+}
+
+div.two {
+  margin-bottom: 70px;
+}
+p.c1 {
+  color : #ffa8ce;
+  opacity:0.6;
+  font-size:18px;
+  padding: 6px;
+}
+.back1 {
+    background: none !important;
+  border-style:solid;
+  border-width:2px;
+  border-radius: 10px;
+  border-color:rgb(0,190,255);
+  padding:5px;
+}
+
+
+.skill1 {
+    background: linear-gradient(90deg, #ffa8ce 0%, #31B1CF 100%);
+    text-align: right;
+    padding-right: 20px;
+    line-height: 30px;
+    background-color: black;
+    border-radius:10px;
+    height:28px;
+    width:0%;
+}
+
+.skillbar {
+  width: 100%;
+}
+
+p.c2 {
+  color : #ff7a8d;
+  opacity: 0.6;
+  font-size:18px;
+}
+.back2 {
+  background: none !important;
+  border-style:solid;
+  border-width:2px;
+  border-radius: 10px;
+  border-color:#6bf3ff;
+  padding:5px;
+}
+
+
+.skill2 {
+    background: linear-gradient(90deg, #ff5e75 0%, #a9f4f3 100%);
+    text-align: right;
+    padding-right: 20px;
+    line-height: 30px;
+    background-color: black;
+    border-radius:10px;
+    height:28px;
+    width:0%;
+}
